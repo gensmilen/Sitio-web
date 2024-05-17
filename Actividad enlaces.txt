@@ -1,0 +1,60 @@
+<HTML>
+<HEAD>
+<TITLE> UPDS </TITLE>
+</HEAD>
+<br> <H1> <center> <b> <u> PAGINA WEB </u> </b> </H1> </center>
+<BODY background="Imagen.webp">
+<br> <b> Estudiante: <FONT color="BLUE"> Gensmilen Escudero Nuñez </FONT> </b>
+<br> <b> Fecha: <FONT color="BLUE"> 13/05/2024  </FONT> </b>
+<br> <H1> <CENTER> GIF </H1>  <CENTER>
+<br> <A name="seccion1"> </A>
+<br> <DIV align="center"> <IMG src="dos.gif"> </DIV>
+<br> 
+<br>
+<br> <H1> <U> <CENTER> VIDEO </H1> </U> <CENTER>
+<br> <A name="seccion2"> </A>
+<br> <DIV align="center"> <iframe width="400" height="250" src="video.mp4"> frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </DIV>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br> <H1> <U> <CENTER> AUDIO </H1> </U> <CENTER>
+<br> <A name="seccion3"> </A>
+<br> <DIV align="center"> <audio src="musica.mp3" autoplay controls loop > </DIV>
+</audio>
+<br>
+<br> <H1> <DIV align="left"> Enlace a una pagina web en un texto  </H1>  </DIV>
+<br>
+<br> <DIV align="left"> <A href= "https://portal.upds.edu.bo/index"> Ir a UPDS </A> </DIV>
+<br>
+<br>  <H1>  <DIV align="left"> Enlace a una pagina web en una Imagen  </H1>  </DIV>
+<br> <DIV align="left"> <A href="https://www.pagina12.com.ar/"> <IMG src="uno.gif"> </A> </DIV>
+<br> 
+<H1> <DIV align="left"> Enlace en un Correo electronico  </H1> </DIV>
+<br> 
+<br> <DIV align="left"> <A href="mailto:sc.gensmilen.escudero.n@upds.net.bo"> Enviar correo electronico </A> </DIV>
+<br>
+<br> <H1> <DIV align="left"> Redireccion de Secciones  </H1> </DIV>
+<br> <DIV align="left"> <A href="#seccion1"> GIF </A>  </DIV>
+<br> <DIV align="left"> <A href="#seccion2"> VIDEO </A> </DIV>
+<br> <DIV align="left"> <A href="#seccion3"> AUDIO </A> </DIV>
+<br> 
+<br> <H1> <DIV align="left"> Estructura Tablas </H1> </DIV>
+<br> <DIV align="left"> <TABLE name="mitabla" border="3" bgcolor=yellow cellspacing=2 cellpadding=5> </DIV>
+<TR>
+<TH> color de fondo </TH>
+<TH bgcolor="white"> fondo blanco </TH>
+<TH bgcolor="pink"> <FONT color="blue"> Texto azul y fondo rosa
+</FONT>
+</TH>
+</TR>
+<TR>
+<TD> <A href="http://www.google.com"> Buscador </A> </TD>
+<TD> <A href="http://www.yahoo.es"> Alternativo </A> </TD>
+<TD> <A href="http://www.gmail.com"> E-mail </A> </TD>
+</TR>
+</BODY>
+</HTML>
+
+
